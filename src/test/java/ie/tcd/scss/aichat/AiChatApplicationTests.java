@@ -11,3 +11,4 @@ class AiChatApplicationTests {
 	}
 
 }
+asdas
